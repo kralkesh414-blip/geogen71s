@@ -1,0 +1,6 @@
+{
+  "name": "GEOGEN",
+  "description": "Global environmental observatory, interactive world map, and multilingual geospatial analytics platform.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
